@@ -1,0 +1,103 @@
+header{
+    max-width: 100%;
+    background: rgb(25, 81, 203);
+    height: 70px;
+    position: relative;
+}
+footer{
+    max-width: 100%;
+    background: rgb(25, 81, 203);
+    height: 70px;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+}
+span{
+    font-style: italic;
+    background-color: aquamarine;
+}
+.choose{
+    font-size: 24px;
+    text-align: center;
+}
+.title{
+    font-size: 36px;
+    padding-top: 10px;
+    text-align: center;
+    color: aliceblue;
+    ;
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    right: 100px;
+    bottom: 0%;
+    color: white;
+}
+.emblem{position:absolute;
+top: 10px;
+right: 10px;
+}
+.rectangle{
+    height: 250px;
+    width: 500px;
+    border: 5px solid rgb(91, 140, 255);
+    text-align: center;
+    margin-left: 20px;
+    font-size: 90px;
+    position: relative;
+    text-transform: uppercase;
+    object-fit:cover;
+    flex-shrink: 0; */
+    vertical-align: middle;
+    clear:both; 
+    /* background-image: url(/static/img/image\ 11.png); */
+}
+.rectangle_fl{
+    height: 250px;
+    width: 500px;
+    border: 5px solid rgb(91, 140, 255);
+    text-align: center;
+    margin-left: 20px;
+    font-size: 90px;
+    position: relative;
+    text-transform: uppercase;
+    object-fit:cover;
+    flex-shrink: 0; */
+    vertical-align: middle;
+    clear:both; 
+    /* background-image: url(/static/img/image\ 11.png); */
+}
+.rectangleline{
+    width:100%; 
+    height:1px;
+    float:left; 
+    line-height: 120px;
+    clear:both;
+    
+}
+.phlk{
+    background-image: url(/static/img/image\ 11.png);
+}
+.phgk{
+    background-image: url(/static/img/image\ 12.png);
+}
+.phen{
+    background-image: url(/static/img/image\ 13.png);
+}
+.phhim{
+    background-image: url(/static/img/image\ 14.png);
+}
+.phg{
+    background-image: url(/static/img/image\ 15.png);
+}
+.phbk{
+    background-image: url(/static/img/scale_1200\ 1.png);
+}
+.phrb{
+    background-image: url(/static/img/images\ 1.png);
+}
+.exmp3{
+    position: relative;
+}
